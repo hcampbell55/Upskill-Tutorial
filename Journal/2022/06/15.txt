@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-06-15T11:59:07-06:00
+
+====== Wednesday 15 Jun 2022 ======
+* Started tutorial : https://upskillcourses.com/courses/essential-web-developer-course
